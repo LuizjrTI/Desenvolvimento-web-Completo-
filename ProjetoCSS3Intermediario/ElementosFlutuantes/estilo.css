@@ -1,0 +1,34 @@
+.content{
+    background: blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}
+/*
+.conteudo1{
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+*/
+
+
+.clear{
+    clear: left;
+/*  clear: right,left, both, none; */
+}
+
+
+.principal{
+    border: 5px solid red;
+    background: green;
+}
+
+p{
+    text-align: justify;
+}

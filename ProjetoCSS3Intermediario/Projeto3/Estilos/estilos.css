@@ -1,0 +1,133 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.menuSuperior{
+	height: 150px;
+	background-color: #FFC300;
+	padding-top: 0px;
+}
+
+body {
+	background-color: #e6e6e6;
+	font-family: "Trebuchet MS", "Helvetica", "sans-serif";
+}
+h1{
+	float: left;
+	font-size: 40px
+}
+.clear{
+	clear: both;
+}
+
+.titulo{
+	padding-top: 30px;
+	margin-left: 45%
+}
+
+.opcao{
+	text-decoration: none;
+	padding: 10px;
+	color: #FFF;
+}
+
+.opcao:hover{
+	background-color: #FFF;
+	color: #FFC300;
+}
+
+
+.menu{
+	padding-top: 20px;
+	margin-left: 35%;
+}
+
+.postagens{
+	width: 640px;
+	margin-left: 80px;
+	margin-top: 50px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background: #FFF;
+	float:left;
+
+}
+
+.barraLateralPostagensRecentes{
+	float: left;
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 50px;
+	background-color:#FFF;
+	width: 300px;
+	height: 270px;
+	padding: 10px;
+
+}
+
+.TituloPostagens{	
+	background-color: #BDBDBD; 
+	height: 25px; 
+	color:#424242; 
+	text-align: center; 
+	padding: 2px; 
+	margin: 10px 15px;
+
+}
+
+.direitosReservados{
+	padding-top: 30px;
+	padding-bottom: 60px;
+	margin-left: 45%;
+	font-size: 20px;
+}
+
+
+
+.principal{
+	margin-top: 30px;
+	width: 1250px;
+	
+}
+
+p{
+	text-align:justify;
+}
+
+.leiaMais{
+	color: #FFC300;
+	text-decoration: none;
+}
+
+.barraLateralCategoria{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 380px;
+	padding: 10px;
+	width: 300px;
+	height: 230px;
+	float: left;
+	background-color: #FFF;
+	
+}
+
+.opcaoMenuBarraLateralCategoria{
+	padding: 10px;
+	font-size: 20px;
+	color: #FFC300; 
+	text-decoration: none; 
+	display: block;
+}
+
+.leia-mais:hover{
+color:#FFC300;
+
+
+}
+
+.leia-mais{
+	color:black;
+	text-decoration:none;
+}
